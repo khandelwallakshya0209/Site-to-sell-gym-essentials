@@ -1,4 +1,4 @@
-# Site-to-sell-gym-essentials
+# Site-to-sell-gym-essentials by 100Thieves
 
 #Project demo
 
