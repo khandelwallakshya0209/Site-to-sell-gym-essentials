@@ -15,7 +15,7 @@ NPM / Yarn and Node.js should be installed
 
 #Installation
 
-1. In client folder and server folder run npm install to install all the dependencies in parallel.
+1.In client folder and server folder run npm install to install all the dependencies in parallel.
 
 2.Run npm start in Client folder.
 
